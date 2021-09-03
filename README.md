@@ -16,7 +16,6 @@ Notify is a mobile application platform to navigate diverse real-time situation 
 * Create Alerts
 
 
-![Imgur](https://i.imgur.com/IRhO5bY.png?1)
 
 ## Getting Started
 User can use the app without registering( Guest user)
@@ -141,8 +140,8 @@ Users will receive Alerts based on events taking place in there community. These
 ## The App Brewery
 
 ### Technology
-# Kotlin
-# Django
+* Kotlin
+* Django
 
 
 
